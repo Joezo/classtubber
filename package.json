@@ -1,0 +1,28 @@
+{
+  "name": "classtubber",
+  "version": "0.0.1",
+  "description": "Stubs a class and returns references to methods on instances of said class",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Joezo/classtubber.git"
+  },
+  "keywords": [
+    "sinon",
+    "class",
+    "class",
+    "stub"
+  ],
+  "author": "Joe Warren",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Joezo/classtubber/issues"
+  },
+  "homepage": "https://github.com/Joezo/classtubber#readme",
+  "dependencies": {
+    "sinon": "^1.17.7"
+  }
+}
